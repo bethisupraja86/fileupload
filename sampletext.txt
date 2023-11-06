@@ -1,1 +1,1 @@
-{"short_description":"Test","description":"Test","customername":"Joe","customerid":"12345"}
+{"short_description":"Test","description":"Test","u_address": "Test","u_city": "Test","u_country": "Test","u_customer_id": "Test","u_customer_name": "Test","u_email": "Test","u_phone_number": "Test"}
